@@ -1,0 +1,6 @@
+2024/10/18-17:18:21.528 1c8edf Reusing MANIFEST /var/www/api/venom.webally.co.za/tokens/auto-responder/Default/Local Storage/leveldb/MANIFEST-000001
+2024/10/18-17:18:21.530 1c8edf Recovering log #3
+2024/10/18-17:18:21.530 1c8edf Reusing old log /var/www/api/venom.webally.co.za/tokens/auto-responder/Default/Local Storage/leveldb/000003.log 
+2024/10/19-10:20:02.263 1c8ee1 Level-0 table #5: started
+2024/10/19-10:20:02.264 1c8ee1 Level-0 table #5: 16274 bytes OK
+2024/10/19-10:20:02.265 1c8ee1 Delete type=0 #3
